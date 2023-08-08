@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://skydeep.com](https://skydeep.com)
+- 👨‍💻 All of my projects are available at [https://skydeep.co.in](https://skydeep.co.in)
 
 - 📝 I regularly write articles on [https://medium.com/@21f2000247](https://medium.com/@21f2000247)
 
@@ -22,12 +22,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/skydeep_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skydeep_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aakashdeep-1a2b3c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakashdeep-1a2b3c/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/aakashdeep1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aakashdeep1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakashdeep-1a2b3c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakashdeep-1a2b3c/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/aakashdeep1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aakashdeep1" height="30" width="40" /></a>
 <a href="https://instagram.com/skydeep_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skydeep_1" height="30" width="40" /></a>
 <a href="https://www.behance.net/21f2000247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="21f2000247" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aakashdeep__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashdeep__1" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/FSdhfwft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FSdhfwft" height="30" width="40" /></a>
+<a href="https://discord.gg/FSdhfwft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FSdhfwft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
