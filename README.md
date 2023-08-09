@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI/ML Data Science Projects**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://skydeep.co.in](https://skydeep.co.in)
 
