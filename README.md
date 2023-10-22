@@ -21,11 +21,9 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/Anchals24">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anchals24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Aakashdeep-Srivastava">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashdeep-Srivastava&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
-  
-
 </a>
 </p>
 
@@ -35,10 +33,10 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 
 <p align="center">
-<a href="https://discordapp.com/users/Anchals24/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anchals24"/></a> <a href="https://www.linkedin.com/in/anchal-sharma-57a08714a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anchal_linkedIn"/></a> 
+<a href="https://discord.gg/UKq53jaB" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="skydeep"/></a> <a href="https://www.linkedin.com/in/aakashdeep-1a2b3c/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aakashdeep_linkedIn"/></a> 
 <br>
 <br>
-<a href="https://twitter.com/Anchalsharma24" target="blank"><img src="https://img.shields.io/twitter/follow/Anchalsharma24?logo=twitter&style=for-the-badge" alt="Anchals24" /></a>
+<a href="https://twitter.com/skydeep_1" target="blank"><img src="https://img.shields.io/twitter/follow/skydeep_1?logo=twitter&style=for-the-badge" alt="skydeep_1" /></a>
 </p>
 
 <hr>
@@ -46,7 +44,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
 
 
-[twitter]: https://twitter.com/Anchalsharma24
-[linkedin]: https://www.linkedin.com/in/anchal-sharma-57a08714a/
-[github]:https://github.com/Anchals24
-[gmail]:mailto:aanchalaws708@gmail.com
+[twitter]: https://twitter.com/skydeep_1
+[linkedin]: https://www.linkedin.com/in/aakashdeep-1a2b3c/
+[github]:https://github.com/Aakashdeep-Srivastava
+[gmail]:mailto:aakashdeep0551@gmail.com
