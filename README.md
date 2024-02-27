@@ -38,24 +38,12 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) 
 ![Bigquery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
 
-### Version Control 🔄
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) 
-
 ### Visualisation Tools 🛍️
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Quicksight](https://img.shields.io/badge/Quicksight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) 
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white) 
-
-### Computer Vision 👁️
-![YOLOv5](https://img.shields.io/badge/YOLOv5-000000?style=for-the-badge&logo=yolov5&logoColor=white) 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=yolov8&logoColor=white)
-
-### Natural Language Processing 📝
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=transformers&logoColor=white) 
-![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=bert&logoColor=white)
 
 ### IDE 💻
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) 
