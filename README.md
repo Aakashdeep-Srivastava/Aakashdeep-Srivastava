@@ -16,17 +16,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 <hr>
 
-<!-- ----------- TECH STACK SECTION END------------ -->
-
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/Aakashdeep-Srivastava">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashdeep-Srivastava&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-</a>
-</p>
-
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
 ![connect-with-me.png](./connect-with-me.png.png)
