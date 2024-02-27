@@ -17,10 +17,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 <hr>
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
-
-![connect-with-me.png](./connect-with-me.png.png)
-
-
 <p align="center">
 <a href="https://discord.gg/UKq53jaB" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="skydeep"/></a> <a href="https://www.linkedin.com/in/aakashdeep-1a2b3c/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aakashdeep_linkedIn"/></a> 
 <br>
