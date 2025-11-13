@@ -23,7 +23,7 @@
 <td>
 
 **🥇 1st Place**
-- Sustainability Hackathon (GIM) - **Secured $1M funding**
+- Sustainability Hackathon (GIM)  
 - ProductSpace Gen AI Hackathon
 
 </td>
@@ -31,14 +31,13 @@
 
 **🥈 2nd Place** 
 - Karnataka State Police Datathon
-- **50+ police stations** data optimization
+
 
 </td>
 <td>
 
 **🏅 Top 10**
 - South East Asia AI Impact (Google India)
-- **500K+ users** impacted
 
 </td>
 </tr>
