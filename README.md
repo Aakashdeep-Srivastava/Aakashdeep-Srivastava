@@ -49,7 +49,11 @@ I'm **Aakashdeep Srivastava**, an **AI Engineer with 5+ years** taking ML system
 
 ---
 
-## 🔧 What I actually build
+## 🔧 What I build
+
+<p align="center">
+  <img src="./founder-os.svg" alt="What I build — LLM & agents, computer vision, MLOps, backend systems" width="100%"/>
+</p>
 
 | Domain | Stack I ship with | Proof |
 |:--|:--|:--|
@@ -114,14 +118,6 @@ PowerBI analytics + Redis async queue over **50+ police stations** → **−60% 
 
 ---
 
-## 🏢 Founder OS
-
-<p align="center">
-  <img src="./founder-os.svg" alt="Founder OS — two ventures, one thesis: software that runs the physical world" width="100%"/>
-</p>
-
----
-
 ## 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -181,21 +177,7 @@ Cloud & MLOps       AWS (SageMaker / Lambda / S3 / EC2) · Azure ML / App Servic
 
 ---
 
-## 💖 Support my work
-
-If my open-source work, writing on **[skydeep.in](https://skydeep.in)**, or these projects helped you, you can fuel the next build. Every bit funds more open AI work. 🙏
-
-<p align="center">
-  <a href="upi://pay?pa=aakash123srivastava-1@oksbi&pn=Aakashdeep%20Srivastava&cu=INR"><img src="https://img.shields.io/badge/Pay%20via%20UPI-aakash123srivastava--1@oksbi-00BAF2?style=for-the-badge&logo=googlepay&logoColor=white" alt="Pay via UPI"/></a>
-</p>
-
-<p align="center">
-  <img src="./upi-qr.jpeg" alt="UPI QR — scan to pay Aakashdeep Srivastava with any UPI app" width="260"/>
-  <br/>
-  <sub><b>Scan to pay with any UPI app</b> · UPI ID: <code>aakash123srivastava-1@oksbi</code></sub>
-</p>
-
-> *(GitHub also shows a **Sponsor** button on this profile via `.github/FUNDING.yml`.)*
+<sub>☕ Built something useful from my work? You can <a href="upi://pay?pa=aakash123srivastava-1@oksbi&pn=Aakashdeep%20Srivastava&cu=INR">sponsor a coffee</a> — entirely optional. The <b>Sponsor</b> button up top works too.</sub>
 
 ---
 
