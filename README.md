@@ -1,300 +1,214 @@
-# Aakashdeep Srivastava | AI Architect & Blockchain Innovator 🚀
+<!-- ============ HERO ============ -->
+<p align="center">
+  <img src="./header.svg" alt="Aakashdeep Srivastava — AI Systems Architect · Software Engineer · Founder" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%94+end-to-end+ML%2C+not+just+notebooks;LLM+orchestration+%C2%B7+multi-agent+RAG+%C2%B7+LangGraph;Real-time+computer+vision+at+%3C40ms+on+serverless+GPU;Chief+AI+Engineer+%40+Reclevo+%C2%B7+IIT+Madras" alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- ============ QUICK LINKS ============ -->
+<p align="center">
+  <a href="https://skydeep.in"><img src="https://img.shields.io/badge/Portfolio-skydeep.in-22d3ee?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:aakashdeep0551@gmail.com"><img src="https://img.shields.io/badge/Email-aakashdeep0551@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aakashdeep-srivastava"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Aakashdeep-Srivastava"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aakashdeep-Srivastava&color=22d3ee&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Based%20in-Goa,%20India-a78bfa?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20Roles-28c840?style=flat-square" alt="Open to work"/>
+</p>
+
+---
+
+## 👋 Hire me — AI Engineer who ships end-to-end
+
+I'm **Aakashdeep Srivastava**, an **AI Engineer with 5+ years** taking ML systems from **research → production**: LLM orchestration, real-time computer vision, and high-throughput Python microservices. I don't stop at a notebook — I ship **sub-40ms inference on serverless GPU**, with reproducible Poetry environments, A/B deployment gates, and drift monitoring.
+
+> **Looking for:** AI / ML Engineer · LLM & Agentic Systems · Computer Vision · MLOps — full-time, end-to-end ownership.
+
+- 🏗️ **Chief AI Engineer @ Reclevo Infotech** — building AI + logistics infra for circular-economy waste systems
+- 🎓 **B.S. Data Science & Mechanical Engineering @ IIT Madras** — CGPA **8.9/10**
+- 📜 **Azure Data Scientist Associate (DP-100)** · **Microsoft Data Analyst (PL-300)** · **MLOps Specialization**
+- 🏆 **5× hackathon winner** · ranked **2nd / 900 teams** at Karnataka State Police Datathon
+- 🌐 Portfolio & writing → **[skydeep.in](https://skydeep.in)**
+
+---
+
+## 🧠 How I think about AI systems
+
+<p align="center">
+  <img src="./agentic-network.svg" alt="Agentic architecture — specialised agents, shared memory, human in the loop" width="100%"/>
+</p>
+
+**Specialised agents. Shared memory. Human in the loop.** I build agentic systems where an orchestrator plans, routes, and verifies across tool-using agents backed by RAG — and a human stays in the approval loop. In production this cut **Level-1 support tickets by 60%** (OpenAI + Gemini agentic workflows at Reclevo).
+
+---
+
+## 🔧 What I actually build
+
+| Domain | Stack I ship with | Proof |
+|:--|:--|:--|
+| **LLM & Agentic AI** | LangGraph · LangChain · Google ADK · Gemini / OpenAI / Anthropic APIs · multi-agent RAG · ChromaDB · Pinecone | 60% fewer L1 tickets · PII firewall + prompt-injection defense |
+| **Real-time Computer Vision** | YOLO11-Seg · TensorRT INT8 · SAM 2 · Moondream2 (VLM) · OpenCV · PyTorch | **84% field accuracy @ <40ms**, 400+ images/day on Modal GPU |
+| **LLM Fine-tuning / MLOps** | PEFT · QLoRA · 4-bit quant · Optuna · SageMaker · MLflow · DVC · W&B · Poetry | Qwen-3B at **95% baseline MMLU, −60% GPU memory** across 100+ models |
+| **High-throughput services** | FastAPI · Celery · Redis · Kafka · WebSocket · GoLang (Gin) · Docker · GitHub Actions | 50+ concurrent requests · **98% viseme accuracy** · 99.9% uptime |
+| **Serverless GPU inference** | Modal · AWS Lambda / SageMaker / S3 / EC2 · Azure ML / App Service / DevOps | sub-40ms latency, reproducible pipelines |
+
+---
+
+## 💼 Experience
+
+### 🧪 Chief AI Engineer — Reclevo Infotech `Jun 2025 – Present` · Goa, India
+End-to-end AI + logistics platform for rapid waste disposal.
+- **Waste-segregation ML pipeline**: YOLO11-Seg + TensorRT INT8 → **84% field accuracy at <40ms**, SAM 2 auto-labeling, Moondream2 VLM fallback for ambiguous classes. Deployed on **Modal serverless GPU**, 400+ images/day.
+- Shipped **Reclevo** — a Rapid Waste Disposal Platform serving **5 user roles** across multiple **React Native** frontends on a **GoLang (Gin)** microservices backend at **99.9% uptime**.
+- Optimised fleet logistics (SWAM) with data-driven routing → **−25% fuel**, faster pickup turnaround.
+- Built a **Pandas + NumPy ETL pipeline** over GPS telemetry (route optimization, heatmaps, anomaly detection).
+- **Agentic workflows** (OpenAI + Gemini) for support & waste categorization → **−60% L1 tickets**; Power Automate compliance flows → **−95% manual entry errors**.
+
+### 🤖 AI Engineer — EduGorilla Community `Jun 2024 – Sept 2025`
+MLOps · PEFT · FastAPI · AWS
+- **PEFT/QLoRA fine-tuning** of **Qwen-3B** on SageMaker — 4-bit quant + gradient checkpointing + Optuna sweeps → **95% of baseline MMLU at −60% GPU memory** vs full fine-tuning.
+- Built an **MLflow evaluation pipeline** with **A/B deployment gates** and Poetry-standardized, reproducible envs → experiment tracking across **100+ models**.
+- Architected a **FastAPI + Celery video-generation pipeline** (Gemini Pro + ElevenLabs + Rhubarb Lip Sync), Redis broker, **50+ concurrent requests at 98% viseme accuracy**, Docker + Prometheus health checks.
+- Automated exam-notification ETL (SmartScraper AI + Pandas) → **1000+ notifications/day at 99% accuracy, +40% engagement**.
+
+---
+
+## 🚀 Flagship projects
+
+### 🗳️ [Roothscale](https://roothscale.com) — Political Intelligence Platform
+`Next.js 15 · NestJS 11 · PostgreSQL 16 + PostGIS · Python FastAPI · Anthropic API`
+AI-powered election intelligence for Goa MLAs: booth-level analysis from public Form 20, an **AI Co-Pilot** with daily confidence-scored, evidence-backed recommendations, an **OR-Tools visit optimizer**, and a grievance CRM. Multi-tenant with **RLS forced**, **6 BullMQ worker pipelines** (z-score/EWMA early-warning, Apify social scanning), OCR ingest via Sarvam Vision — all behind a **PII firewall with prompt-injection defense**. *Deterministic SQL scoring; the LLM only writes explanations, never numbers.*
+
+### 🧏 [EduMate](https://xedumate.vercel.app) — Multi-Modal Learning Platform · `Top 10 · Hack2Skill AI for Impact`
+Real-time **sign-language recognition** (CNN image classification + object detection, **95% accuracy**) with **emotion detection** for autism support, plus **speech-to-image** generation (500+ voice commands, 90% satisfaction). Node.js/Express + WebSocket backend handling **100+ concurrent video streams at <100ms latency**.
+
+### 🏪 [MSMEMate](https://msmemate.com) — Sovereign AI for ONDC Onboarding · `IndiaAI Challenge`
+**DPDP-Act-2023-compliant, zero foreign LLM calls.** Three modules: **Sathi** (voice-first registration via Sarvam ASR/TTS), **VargBot** (TF-IDF + Sarvam-30B classifier, 14 ONDC domains, **98.5% accuracy**), **JodakAI** (multi-factor scoring, **NDCG@3 0.879**). Next.js 15 + FastAPI + PostgreSQL 16 + Redis, full **DVC pipeline** with model registry + drift monitoring and an immutable audit trail.
+
+### 🚔 Police PRM — Performance & Resource Management · `2nd / 900 · Karnataka Datathon 2.0`
+PowerBI analytics + Redis async queue over **50+ police stations** → **−60% resource-allocation time, −40% response time**; Airtable real-time tracking of **1000+ daily updates**, −80% manual entry, 5-minute decision cycles.
+
+---
+
+## 📊 Impact at a glance
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Co-Founder+%26+CTO+%40+Reclevo+Infotech;Founder+%26+CEO+%40+Xphora+AI;AI+Engineer+%7C+Blockchain+Developer;5x+Hackathon+Winner+%7C+Startup+Founder)](https://git.io/typing-svg)
+| Metric | Result | Where |
+|:--|:--|:--|
+| ⚡ CV inference latency | **< 40 ms** @ 84% field accuracy | Reclevo (YOLO11-Seg + TensorRT) |
+| 🧠 Fine-tuning efficiency | **−60% GPU memory**, 95% baseline MMLU | EduGorilla (Qwen-3B QLoRA) |
+| 🤖 Support automation | **−60% L1 tickets** | Reclevo agentic workflows |
+| 🎬 Concurrency | **50+ req** @ 98% viseme accuracy | EduGorilla video pipeline |
+| 🏭 Uptime | **99.9%** across 6 user personas | Reclevo GoLang microservices |
+| 🏆 Competition | **2nd / 900 teams** · 5× winner | Hackathons & datathons |
 
 </div>
 
 ---
 
-## 🎯 **Executive Summary**
+## 🏢 Founder OS
 
-**Serial Entrepreneur & Technical Leader** with proven expertise in **Large Language Models**, **Distributed Systems**, and **Blockchain Architecture**. Currently scaling AI solutions at **Reclevo Infotech** while pioneering carbon credit tokenization at **Xphora AI**. 
-
-**📊 Impact Metrics**: 60% GPU optimization • 98% system accuracy • 40% cost reduction • $1M+ funding secured
-
----
-
-## 🏆 **Competition & Recognition**
-
-<table>
-<tr>
-<td>
-
-**🥇 1st Place**
-- Sustainability Hackathon (GIM)  
-- ProductSpace Gen AI Hackathon
-
-</td>
-<td>
-
-**🥈 2nd Place** 
-- Karnataka State Police Datathon
-
-
-</td>
-<td>
-
-**🏅 Top 10**
-- South East Asia AI Impact (Google India)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./founder-os.svg" alt="Founder OS — two ventures, one thesis: software that runs the physical world" width="100%"/>
+</p>
 
 ---
 
-## 💼 **Leadership & Scale**
+## 🛠️ Tech stack
 
-```yaml
-Current Roles:
-  - Co-Founder & CTO: "Reclevo Infotech (JV Xphora X Inovativa)"
-  - Founder & CEO: "Xphora AI Technology"
-  
-Team Leadership:
-  - Cross-functional teams: "3+ engineering teams"
-  - Model training: "100+ ML models in production"
-  - Concurrent systems: "50+ requests with <100ms latency"
-  
-Business Impact:
-  - Revenue optimization: "65% margin improvement"
-  - Cost reduction: "CAC from $200 → $50"
-  - User engagement: "+40% through AI automation"
-```
-
----
-
-## 🔥 **Technical Architecture Highlights**
-
-### **🤖 AI/ML Engineering**
-- **LLM Fine-tuning**: PEFT optimization on Qwen-3B using Amazon SageMaker (60% memory reduction)
-- **MLflow Orchestration**: Experiment tracking across 100+ models with cross-team collaboration
-- **Real-time AI**: 95% accuracy sign language recognition + emotion detection for accessibility
-- **Production ML**: Microservices handling 50+ concurrent video generation requests
-
-### **⛓️ Blockchain & Web3**
-- **Smart Contract Development**: Celo blockchain integration for carbon credit tokenization
-- **DeFi Architecture**: Transparent environmental impact tracking with immutable records
-- **Tokenomics Design**: Sustainable reward mechanisms for carbon offset verification
-
-### **🏗️ Distributed Systems**
-- **Microservices**: Node.js/Express with WebSocket scaling to 100+ concurrent streams
-- **Database Architecture**: PostgreSQL + Prisma with real-time sync capabilities
-- **Cloud Infrastructure**: AWS SageMaker + multi-region deployment strategies
-
----
-
-## 🛠️ **Tech Stack (Production-Grade)**
-
-<details>
-<summary><b>🔥 AI/ML & Deep Learning (Click to expand)</b></summary>
-
-```
-Languages:        Python • TypeScript • Solidity • SQL
-ML Frameworks:    PyTorch • TensorFlow • Hugging Face Transformers
-LLM Tools:        LangChain • Llama Index • Amazon SageMaker • MLflow
-Fine-tuning:      PEFT • LoRA • QLoRA • RLHF
-Vector DBs:       Pinecone • Weaviate • ChromaDB
-```
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/GoLang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=flat-square&logo=amazon&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⛓️ Blockchain & Web3 (Click to expand)</b></summary>
-
-```
-Smart Contracts:  Solidity • Celo • Ethereum
-Web3 Tools:       Web3.js • Ethers.js • Hardhat
-DeFi Protocols:   Carbon Credit Tokenization • Environmental Impact Tracking
-Consensus:        Proof of Stake • Layer 2 Solutions
-```
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🏗️ Backend & Infrastructure (Click to expand)</b></summary>
-
-```
-Backend:          Node.js • Express.js • NestJS • FastAPI
-Databases:        PostgreSQL • MongoDB • Redis • Snowflake
-Cloud:            AWS • Google Cloud • Vercel
-DevOps:           Docker • Kubernetes • CI/CD • Monitoring
-Real-time:        WebSockets • Socket.io • Server-Sent Events
-```
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-7C3AED?style=flat-square&logo=modal&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
-</details>
-
----
-
-## 🚀 **Flagship Projects**
-
-### **1. 🎓 EduGorilla LMS - Production AI System**
-<sup>*Scale: 1000+ daily users • Tech: SageMaker, MLflow, Microservices*</sup>
-
-```typescript
-// Key Innovations
-- PEFT Fine-tuning: Qwen-3B optimization (60% memory reduction)
-- MLflow Pipeline: 100+ model experiment tracking
-- Video Generation: 50+ concurrent requests, 98% viseme accuracy
-- Smart Scraping: 1000+ notifications/day, 99% accuracy
-```
-
-**Business Impact**: Reduced training costs by 60%, increased engagement by 40%
-
-### **2. 🌍 Xphora AI - Carbon Credit Blockchain Platform**
-<sup>*Funding: $1M secured • Tech: Celo, Smart Contracts, AI Verification*</sup>
-
-```solidity
-// Smart Contract Architecture
-contract CarbonCredit {
-    mapping(address => uint256) public carbonBalance;
-    
-    function verifyAndMint(bytes32 _activityHash, uint256 _credits) 
-        external onlyVerifier {
-        // AI-powered verification logic
-        carbonBalance[msg.sender] += _credits;
-        emit CreditMinted(msg.sender, _credits, _activityHash);
-    }
-}
-```
-
-**Technical Achievement**: 40% reduction in manual validation, transparent tracking
-
-### **3. 🚔 Police Analytics Dashboard - Government Scale**
-<sup>*Scale: 50+ stations • Tech: PowerBI, Airtable, Real-time Sync*</sup>
-
-```python
-# Performance Optimization
-def optimize_resource_allocation(station_data):
-    """
-    Real-time resource optimization algorithm
-    Processes 1000+ daily updates with 5-minute decision cycles
-    """
-    return optimized_allocation  # 60% time reduction, 40% response improvement
-```
-
-### **4. 🎨 Edumate - Accessibility-First AI Platform**
-<sup>*Recognition: Top 10 Google India • Tech: 3D Environment, Real-time ML*</sup>
-
-- **Computer Vision**: 95% accuracy sign language recognition
-- **Emotion AI**: Autism support through facial expression analysis  
-- **Real-time Rendering**: <100ms latency for 100+ concurrent users
-
----
-
-## 📊 **Performance Metrics**
-
-<div align="center">
-
-| **Category** | **Achievement** | **Impact** |
-|:---|:---|:---|
-| 🚀 **Model Optimization** | 60% GPU memory reduction | $50K+ annual savings |
-| 📈 **System Performance** | 98% accuracy (video generation) | 500K+ users served |
-| 💰 **Business Growth** | CAC: $200 → $50 | 4x ROI improvement |
-| ⚡ **Real-time Systems** | <100ms latency | 100+ concurrent users |
-| 🏆 **Recognition** | 5x Hackathon Winner | $1M+ funding secured |
-
-</div>
-
----
-
-## 🎓 **Credentials & Certifications**
-
-```yaml
-Education:
-  - "B.Tech Mechanical Engineering (GGV) - CGPA: 8.8/10"
-  - "Bachelor's Data Science (IIT Madras) - CGPA: 7.1/10"
-
-Certifications:
-  - "Microsoft PL-300 (Power BI)"
-  - "SnowPro Core Certification"
-  
-Continuous Learning:
-  - "Advanced Deep Learning Specialization"
-  - "Blockchain Development Bootcamp"
-  - "AWS Solutions Architect Track"
+```text
+Languages / OOP     Python (async, dataclasses) · GoLang · SQL · TypeScript · Pandas · NumPy · Polars
+LLM & Agentic AI    LangGraph · LangChain · Google ADK · Gemini / OpenAI / Anthropic · RAG · ChromaDB · Pinecone
+ML / DL / CV        PyTorch · TensorFlow · YOLO11-Seg · TensorRT · SAM 2 · Moondream2 VLM · PEFT / QLoRA · OpenCV
+Pipelines           FastAPI · Flask · Celery · Redis · Kafka · WebSocket · Poetry · Docker Compose · CI/CD
+Cloud & MLOps       AWS (SageMaker / Lambda / S3 / EC2) · Azure ML / App Service / DevOps · Modal · MLflow · DVC · W&B
 ```
 
 ---
 
-## 📈 **GitHub Analytics**
+## 🎓 Credentials
 
-<div align="center">
+- **Indian Institute of Technology, Madras** — B.S. Data Science Applications & Mechanical Engineering · **CGPA 8.9/10**
+- **Azure Data Scientist Associate (DP-100)** · **Microsoft Data Analyst (PL-300)** · **Machine Learning Operations Specialization**
+- **Super Coordinator, Technicals @ IIT Madras** — secured **₹5 Lakhs** sponsorships across 18 hackathons, led a team of 6.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+### 🏅 Selected wins
+🥇 Product Space GenAI Hackathon (GTM) · 🥇 Sustainability Hackathon [GIM'25](https://carbongero.com) · 🥇 Education Equity Hackathon [HackerEarth'26](https://lfastudio.life) · 🥈 Karnataka State Police Datathon (**2nd / 900**) · 🏆 Certificate of Excellence, ML Challenge 2.0 (IIT Madras)
 
 ---
 
-## 🎯 **Open Source Contributions**
+## 📈 GitHub analytics
 
-```bash
-# Notable Contributions
-├── 🤖 ml-optimization-toolkit/     # PEFT fine-tuning utilities
-├── ⛓️  carbon-credit-contracts/    # Smart contract templates  
-├── 📊 realtime-analytics-engine/   # High-performance data processing
-└── 🎓 edu-accessibility-ai/        # Inclusive learning tools
-```
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aakashdeep-Srivastava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashdeep-Srivastava&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
----
-
-## 💡 **Innovation Philosophy**
-
-> *"Building production-grade AI systems that scale to millions while solving real-world problems through blockchain transparency and sustainable innovation."*
-
-**Core Principles**:
-- 🚀 **Performance-First**: Every optimization counts at scale
-- 🔒 **Security-Native**: Blockchain-level trust in all systems  
-- 🌍 **Impact-Driven**: Technology for positive environmental and social change
-- 📊 **Data-Informed**: Metrics-driven decision making
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashdeep-Srivastava&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ---
 
-## 🤝 **Collaboration & Opportunities**
+## 💖 Support my work
 
-<div align="center">
+If my open-source work, writing on **[skydeep.in](https://skydeep.in)**, or these projects helped you, you can fuel the next build. Every bit funds more open AI work. 🙏
 
-**🎯 Open for**: Senior Engineering Roles • Technical Leadership • Blockchain Partnerships • AI Research Collaboration
+<p align="center">
+  <a href="upi://pay?pa=aakash123srivastava-1@oksbi&pn=Aakashdeep%20Srivastava&cu=INR"><img src="https://img.shields.io/badge/Pay%20via%20UPI-aakash123srivastava--1@oksbi-00BAF2?style=for-the-badge&logo=googlepay&logoColor=white" alt="Pay via UPI"/></a>
+</p>
 
-<br>
+<p align="center">
+  <img src="./upi-qr.jpeg" alt="UPI QR — scan to pay Aakashdeep Srivastava with any UPI app" width="260"/>
+  <br/>
+  <sub><b>Scan to pay with any UPI app</b> · UPI ID: <code>aakash123srivastava-1@oksbi</code></sub>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashdeep-1a2b3c/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skydeep_1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashdeep0551@gmail.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat)
-[![Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-
-</div>
+> *(GitHub also shows a **Sponsor** button on this profile via `.github/FUNDING.yml`.)*
 
 ---
 
-<div align="center">
-<sub>🚀 <strong>Currently architecting the future of AI and Web3</strong> • Building systems that matter • Always learning</sub>
-</div>
+## 🤝 Let's build
+
+<p align="center">
+  <strong>Open to:</strong> AI / ML Engineer roles · LLM & agentic systems · computer vision · MLOps — end-to-end ownership.
+</p>
+
+<p align="center">
+  <a href="https://skydeep.in"><img src="https://img.shields.io/badge/skydeep.in-Portfolio-22d3ee?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:aakashdeep0551@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aakashdeep-srivastava"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center"><sub>⚙️ <strong>I build systems, not just features.</strong> · Goa, India · <a href="https://skydeep.in">skydeep.in</a></sub></p>

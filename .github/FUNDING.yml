@@ -1,0 +1,5 @@
+# GitHub "Sponsor" button config for the profile repo.
+# UPI isn't a GitHub-native funding platform, so the button points to the
+# portfolio (which carries the UPI ID + QR). Direct UPI: aakash123srivastava-1@oksbi
+custom:
+  - "https://skydeep.in"
