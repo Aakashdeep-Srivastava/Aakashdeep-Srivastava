@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.6" stop-color="#0b1230"/>
+      <stop offset="1" stop-color="#140a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1e2a52" stroke-width="0.6"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
+      .sans { font-family: 'Segoe UI',Helvetica,Arial,sans-serif; }
+      .spin { transform-origin: 250px 190px; animation: spin 18s linear infinite; }
+      .spinr { transform-origin: 250px 190px; animation: spin 26s linear infinite reverse; }
+      .pulse { transform-origin: 250px 190px; animation: pulse 3s ease-in-out infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.06); } }
+      .ln { opacity: 1; animation: show 12s linear infinite backwards; }
+      .l1 { animation-delay: 0.3s; } .l2 { animation-delay: 1.1s; } .l3 { animation-delay: 1.9s; }
+      .l4 { animation-delay: 2.7s; } .l5 { animation-delay: 3.5s; } .l6 { animation-delay: 4.3s; }
+      .l7 { animation-delay: 5.1s; }
+      @keyframes show { 0% { opacity: 0; } 3% { opacity: 1; } 90% { opacity: 1; } 100% { opacity: 0; } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scan { animation: scan 4s linear infinite; }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(380px); } }
+      .rain { animation: fall 7s linear infinite; }
+      .rain2 { animation: fall 9s linear infinite; animation-delay: -3s; }
+      @keyframes fall { from { transform: translateY(-120px); } to { transform: translateY(380px); } }
+    </style>
+    <clipPath id="frame"><rect width="1200" height="380" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)" opacity="0.7"/>
+
+    <!-- code rain behind portrait -->
+    <g class="mono" font-size="12" fill="#22d3ee" opacity="0.18">
+      <g class="rain">
+        <text x="70" y="0">01</text><text x="110" y="40">λ</text><text x="150" y="10">{}</text>
+        <text x="190" y="60">=&gt;</text><text x="320" y="20">AI</text><text x="360" y="70">0x</text>
+        <text x="400" y="30">[]</text><text x="430" y="90">∑</text>
+      </g>
+      <g class="rain2">
+        <text x="90" y="0">ƒ(x)</text><text x="140" y="50">10</text><text x="300" y="0">&lt;/&gt;</text>
+        <text x="380" y="40">∇</text><text x="420" y="10">#!</text><text x="60" y="80">rag</text>
+      </g>
+    </g>
+
+    <!-- portrait: orbit rings + monogram -->
+    <circle cx="250" cy="190" r="150" fill="url(#glow)"/>
+    <g class="spin" fill="none" stroke="url(#accent)">
+      <circle cx="250" cy="190" r="128" stroke-width="1.5" stroke-dasharray="4 10"/>
+      <circle cx="378" cy="190" r="5" fill="#22d3ee" stroke="none"/>
+    </g>
+    <g class="spinr" fill="none" stroke="#a78bfa">
+      <circle cx="250" cy="190" r="104" stroke-width="1" stroke-dasharray="60 20 6 20" opacity="0.7"/>
+      <circle cx="146" cy="190" r="4" fill="#a78bfa" stroke="none"/>
+    </g>
+    <g class="pulse">
+      <circle cx="250" cy="190" r="78" fill="#0a1128" stroke="url(#accent)" stroke-width="2"/>
+      <text x="250" y="207" text-anchor="middle" class="mono" font-size="50" font-weight="700" fill="url(#accent)">AS</text>
+    </g>
+    <text x="250" y="355" text-anchor="middle" class="mono" font-size="11" fill="#64748b" letter-spacing="3">// IDENTITY.LOADED</text>
+
+    <!-- terminal window -->
+    <g transform="translate(500,46)">
+      <rect width="660" height="288" rx="12" fill="#070c1f" stroke="#1f2b57"/>
+      <rect width="660" height="34" rx="12" fill="#0e1633"/>
+      <rect y="22" width="660" height="12" fill="#0e1633"/>
+      <circle cx="20" cy="17" r="6" fill="#ff5f57"/><circle cx="40" cy="17" r="6" fill="#febc2e"/><circle cx="60" cy="17" r="6" fill="#28c840"/>
+      <text x="330" y="22" text-anchor="middle" class="mono" font-size="12" fill="#64748b">aakashdeep@xphora: ~</text>
+
+      <g class="mono" font-size="15">
+        <g class="ln l1"><text x="22" y="70"><tspan fill="#22d3ee">❯</tspan><tspan fill="#e2e8f0"> whoami</tspan></text></g>
+        <g class="ln l2"><text x="22" y="98" font-size="24" font-weight="700" fill="#f8fafc" class="sans">Aakashdeep Srivastava</text></g>
+        <g class="ln l3"><text x="22" y="126" fill="#a78bfa">AI Systems Architect · Software Engineer · Founder</text></g>
+        <g class="ln l4"><text x="22" y="164"><tspan fill="#22d3ee">❯</tspan><tspan fill="#e2e8f0"> cat ventures.txt</tspan></text></g>
+        <g class="ln l5"><text x="22" y="190" fill="#94a3b8">├─ <tspan fill="#67e8f9">Xphora AI</tspan>  agentic systems · AI infrastructure</text></g>
+        <g class="ln l6"><text x="22" y="214" fill="#94a3b8">└─ <tspan fill="#86efac">Reclevo</tspan>    co-founder &amp; CTO · circularity infra</text></g>
+        <g class="ln l7"><text x="22" y="252"><tspan fill="#22d3ee">❯</tspan><tspan fill="#e2e8f0"> build --systems --not-just-features</tspan><tspan class="cursor" fill="#22d3ee"> █</tspan></text></g>
+      </g>
+    </g>
+
+    <!-- scanline -->
+    <rect class="scan" x="0" y="0" width="1200" height="40" fill="#22d3ee" opacity="0.04"/>
+    <rect x="1" y="1" width="1198" height="378" rx="17" fill="none" stroke="url(#accent)" stroke-opacity="0.5"/>
+  </g>
+</svg>
